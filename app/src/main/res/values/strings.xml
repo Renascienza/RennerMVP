@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RennerMVP</string>
+    <string name="search">Procurar</string>
+    <string name="home">Loja Virtual</string>
+    <string name="favorite">Favoritos</string>
+    <string name="about">Sobre mim</string>
+    <string name="phone">Whatsapp</string>
+    <string name="cart">Carrinho</string>
+    <string name="tap_load">Toque para descarregar</string>
+    <string name="no_favorite">Quando você tiver produtos favoritos, eles aparecerão aqui</string>
+    <string name="no_offer">Ainda nao ha ofertas disponiveis nessa coleçao</string>
+    <string name="no_products_category">Não há atualmente produtos nessa categoria</string>
+
+</resources>

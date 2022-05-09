@@ -1,0 +1,9 @@
+4. Montar a tela de detalhes do produto e amarrar com a home  3h
+
+5. Descobrir como animar entre a home e a de detalhes   1h
+
+7. Criar tela de lista de produtos por oferta, amarrar na home e amarrar os produtos da oferta para detalhes  1h
+
+9. Criar tela de "Esse é apenas um demo :-)" e amarrar nas funções não implementadas 30min
+
+10. Montar alguns testes 1h
